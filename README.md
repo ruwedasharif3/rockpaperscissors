@@ -4,7 +4,7 @@ This is a simple Rock, Paper, Scissors game built using HTML, CSS, and JavaScrip
 
 ## Demo
 
-The game is deployed on GitHub Pages. 
+The game is deployed on GitHub Pages. You can view it live https://github.com/ruwedasharif3/rockpaperscissors.
 
 ## Running the Project Locally
 
@@ -12,4 +12,5 @@ To run the project on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ruwedasharif3/rockpaperscissors.git]
+   git clone https://github.com/ruwedasharif3/rockpaperscissors.git
+
